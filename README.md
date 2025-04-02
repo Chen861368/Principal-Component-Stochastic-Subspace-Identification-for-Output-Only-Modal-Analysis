@@ -1,9 +1,9 @@
 # Principal Component Stochastic Subspace Identification for Output-Only Modal Analysis
 
-**Code for Preprint Paper**  
+**Code for the Preprint Paper**  
 **Title**: *Principal Component Stochastic Subspace Identification for Output-Only Modal Analysis*  
-📌 This repository contains the official MATLAB implementation of the **PCSSI algorithm** proposed in our preprint.  
-📎 Paper Link: *Coming soon on arXiv*  
+📌 This repository provides the official MATLAB implementation of the **PCSSI algorithm** proposed in our preprint.  
+📎 Paper: [https://doi.org/10.48550/arXiv.2504.00317](https://doi.org/10.48550/arXiv.2504.00317)  
 🔗 Personal Research Homepage: [https://github.com/Chen861368/Personal-Research-Path](https://github.com/Chen861368/Personal-Research-Path)
 
 ---
